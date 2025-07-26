@@ -57,11 +57,15 @@ class AnimalCNN(nn.Module):
 ## Performance Graphs
 - Plot 1: Accuracy vs. Epochs — to show both training and validation curves
 - Plot 2: Loss vs. Epochs — to show stable convergence in loss
+  
 #### plot1
 <img width="546" height="455" alt="image" src="https://github.com/user-attachments/assets/fcff8841-0aa1-42ed-969a-97ddf745f1c5" />
+
 #### plot2
 <img width="546" height="450" alt="image" src="https://github.com/user-attachments/assets/60bdc20e-a6f4-41b8-b212-3391238a92c1" />
+
 ## Confusion matrix
 <img width="663" height="528" alt="Screenshot 2025-07-26 093942" src="https://github.com/user-attachments/assets/ec30cebf-2142-473f-a890-a4e0d376048a" />
+
 ## Conclusion
  This project demonstrates how a CNN can be trained on a small image dataset using PyTorch. It walks through data loading, model building, training, and evaluating on sample inputs. 
