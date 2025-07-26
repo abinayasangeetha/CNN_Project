@@ -64,8 +64,6 @@ class AnimalCNN(nn.Module):
 #### plot2
 <img width="546" height="450" alt="image" src="https://github.com/user-attachments/assets/60bdc20e-a6f4-41b8-b212-3391238a92c1" />
 
-## Confusion matrix
-<img width="663" height="528" alt="Screenshot 2025-07-26 093942" src="https://github.com/user-attachments/assets/ec30cebf-2142-473f-a890-a4e0d376048a" />
 
 ## Conclusion
  This project demonstrates how a CNN can be trained on a small image dataset using PyTorch. It walks through data loading, model building, training, and evaluating on sample inputs. 
